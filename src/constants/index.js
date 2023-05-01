@@ -109,7 +109,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Software Developer(Coop)',
+    title: 'Software Developer',
     company_name: 'Cence Power (CANADA)',
     icon: work,
     iconBg: '#E6DEDD',
