@@ -190,7 +190,8 @@ const projects = [
   },
   {
     name: 'Expense-Tracker',
-    description: 'Web application that helps to track the expenses.',
+    description:
+      'Web application that helps to track the expenses.You can total Balance.And Also see the income and expenses.You can delete and add the all transaction to keep an record',
     tags: [
       {
         name: 'react',
