@@ -189,25 +189,22 @@ const projects = [
     host_link: 'https://game-hub-lime.vercel.app/'
   },
   {
-    name: 'Job IT',
-    description:
-      'Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.',
+    name: 'Expense-Tracker',
+    description: 'Web application that helps to track the expenses.',
     tags: [
       {
         name: 'react',
         color: 'blue-text-gradient'
       },
       {
-        name: 'restapi',
+        name: 'redux',
         color: 'green-text-gradient'
-      },
-      {
-        name: 'scss',
-        color: 'pink-text-gradient'
       }
     ],
     image: jobit,
-    source_code_link: 'https://github.com/'
+    source_code_link:
+      'https://github.com/Simran-Kaur1996/expense-tracker-react',
+    host_link: 'https://expense-tracker-react-rust.vercel.app/'
   },
   {
     name: 'Trip Guide',
